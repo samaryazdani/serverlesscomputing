@@ -1,0 +1,52 @@
+# serverlesscomputing
+
+- Groundhog: Efficient Request Isolation in FaaS
+
+Mohamed Alzayat, Jonathan Mace, Peter Druschel, Deepak Garg
+https://arxiv.org/abs/2205.11458
+
+- Object as a Service (OaaS): Enabling Object Abstraction in Serverless Clouds
+
+Pawissanutt Lertpongrujikorn, Mohsen Amini Salehi
+https://arxiv.org/abs/2206.05361
+
+- Transparent Serverless execution of Python multiprocessing applications
+
+Aitor Arjona, Gerard Finol, Pedro Garcia-Lopez
+https://arxiv.org/abs/2205.08818
+
+- Cloud programming simplified: A berkeley view on serverless computing
+
+Eric Jonas et al.
+https://arxiv.org/abs/1902.03383
+
+- Serverless computing: Behind the scenes of major platforms
+
+Daniel Kelly, Frank Glavin, Enda Barrett
+https://ieeexplore.ieee.org/abstract/document/9284261/
+
+- Serverless computing: One step forward, two steps back
+
+Joseph M Hellerstein, Jose Faleiro et al.
+https://arxiv.org/abs/1812.03651
+
+
+- The server is dead, long live the server: Rise of Serverless Computing, Overview of Current State and Future Trends in Research and Industry
+
+Paul Castro, Vatche Ishakian, Vinod Muthusamy, Aleksander Slominski
+https://arxiv.org/abs/1906.02888
+
+- A review of serverless use cases and their characteristics
+
+Simon Eismann, Joel Scheuner et al.
+https://arxiv.org/abs/2008.11110
+
+- Booting 10K Serverless Functions within One Second via RDMA-based Remote Fork
+
+Xingda Wei, Tianxia Wang, Jinyu Gu, Yuhan Yang, Fangming Lu, Rong Chen, Haibo Chen
+https://arxiv.org/abs/2203.10225
+
+- Faa $ T: A transparent auto-scaling cache for serverless applications
+
+Francisco Romero et al.
+https://dl.acm.org/doi/abs/10.1145/3472883.3486974
